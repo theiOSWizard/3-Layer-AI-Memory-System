@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv/
+.venv_py39_backup_20260326/
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.mypy_cache/
+
+chroma_db/
+memory/long_term_store.json
